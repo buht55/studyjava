@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Created by dperedera on 010 10.06.2016.
  */
-public class Calc_2 {
+public class ls01_t02_Calc {
     public static void main(String[] args){
         int a,b,c;
         Scanner scn = new Scanner(System.in);
