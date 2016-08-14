@@ -33,7 +33,7 @@ public class ls01_t04_IsPointInRectangle {
             min.y=a.y;
             max.y=b.y;
         }
-        System.out.println("Введите координаты третьей точки:");   //test
+        System.out.println("Введите координаты третьей точки:");   //testtt
         c.x = scn.nextDouble();
         c.y = scn.nextDouble();
         if((c.x>=min.x && c.x <=max.x) && (c.y>=min.y && c.y <=max.y)){
