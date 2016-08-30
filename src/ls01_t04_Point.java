@@ -7,8 +7,8 @@ public class ls01_t04_Point {
     void printPoint() {
         System.out.print("("+x+";"+y+")");
     }
-//    void set(double a, double b){
-//        x = a;
-//        y = b;
-//    }
+    void set(double a, double b){
+        x = a;
+        y = b;
+    }
 }
